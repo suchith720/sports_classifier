@@ -1,2 +1,2 @@
 # sports_classifier
-Image classifier, classifies image as badminton, cricket, tennis and baseball
+Heroku app which classifies image as badminton, cricket, tennis and baseball
